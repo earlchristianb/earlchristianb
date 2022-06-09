@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @earlchristianb
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Full stack Web development particularly with Nextjs and Nestjs
 - 🌱 I’m currently learning NestJs and NextJs
-- 💞️ I’m looking to collaborate on somw web development projects
+- 💞️ I’m looking to collaborate on some web development projects
 - 📫 How to reach me reach me earlchristianb@gmail.com
 
 <!---
